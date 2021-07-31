@@ -67,6 +67,7 @@ class TestRegistration(unittest.TestCase):
 
         self.assertEqual(welcome_text, "Congratulations! You have successfully registered!", "Text not found!")
 
+# Добавил строку с комментарием, чтобы сделать новый коммит
 
 # ожидание чтобы визуально оценить результаты прохождения скрипта
 time.sleep(10)
